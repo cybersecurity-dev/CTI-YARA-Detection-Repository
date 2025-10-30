@@ -1,6 +1,14 @@
 # Cyber Threat Defense Center Yara Rules
 Welcome to the official Cyber Threat Defense Center (**CTDC**) YARA rules repository! CTDC Threat Research provides this YARA rule repository for high-quality threat detection. 
 Developed and tested by our analysts, the repository is continuously updated with rules for new threats.Intended for threat hunters, incident responders, and security analysts.
+<p align="center">
+    <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
+    &nbsp;
+    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    &nbsp;
+    <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
+</p>
 
 # Prerequisites
 To successfully run the entire YARA rule set, you must have:
